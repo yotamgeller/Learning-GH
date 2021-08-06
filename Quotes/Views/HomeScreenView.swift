@@ -36,7 +36,7 @@ struct HomeScreenView: View {
                 
                 
             }
-            .navigationBarTitle("Inspirational Quotes")
+            .navigationBarTitle("My Quotes")
             
             
             
